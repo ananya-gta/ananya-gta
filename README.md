@@ -1,7 +1,7 @@
 
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="300"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
