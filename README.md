@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/art.by.ananya/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/ananyanagariya">
+  <a href="https://twitter.com/ananya_192">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
