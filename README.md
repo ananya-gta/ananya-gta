@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React, Angular & Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://ananyagupta.netlify.com](https://ananyagupta.netlify.com)
+- 👨‍💻 All of my projects are available at my [portfolio](https://ananyagupta.netlify.com).
 
-- 📝 You can find my blogs on medium and hashnode. [https://www.medium.com/ananya.gta](https://www.medium.com/ananya.gta)
+- 📝 You can find my blogs on [medium](https://www.medium.com/ananya.gta).
 
-- 📫 How to reach me **ananyagupta.works@gmail.com**
+- 📫 Reach me out at: **ananyagupta.works@gmail.com**
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
