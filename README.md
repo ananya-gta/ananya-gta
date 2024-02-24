@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Gupta.</h1>
 <h3 align="center">SWE @VWGroup | Frontend Developer | Technical Writer</h3>
+<img align="right" width=300 src="https://miro.medium.com/v2/resize:fit:1358/0*yBvA5CnEX3Sd4aod.gif">
+<h3>About me</h3>
 
 - 🔭 I’m currently working on the UI design of a gym - ["Fitness Mantra"](https://www.github.com/ananya-gta/fitness-mantra)
 
