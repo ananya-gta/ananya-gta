@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://ananyagupta.netlify.com).
 
-- 📝 You can find my blogs on [medium](https://www.medium.com/ananya.gta).
+- 📝 You can find my blogs on [medium](https://www.medium.com/@ananya.gta).
 
 - 📫 Reach me out at: **ananyagupta.works@gmail.com**
 
