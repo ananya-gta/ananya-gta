@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya Gupta.</h1>
+<h1 align="center">Hi, I'm Ananya.</h1>
 <h3 align="center">SWE @VWGroup | Frontend Developer | Technical Writer</h3>
 <img align="right" width=250 src="https://miro.medium.com/v2/resize:fit:1358/0*yBvA5CnEX3Sd4aod.gif">
 <h3>About me:</h3>
