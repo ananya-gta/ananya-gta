@@ -4,7 +4,7 @@
 <img align="right" width=500 src="/my-gif.gif">
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on the UI design of [Library Management System](https://www.github.com/ananya-gta/library-management-system-frontend) which is built using **Angular**
+- 🔭 I’m currently working on my first client's business- [Hindustan Agarbatti Udyog](https://www.github.com/ananya-gta/hindustan-agarbatti-udyog) landing page. 
 
 - 🌱 I’m currently learning **React, Angular & Spring Boot**
 
