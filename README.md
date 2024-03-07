@@ -4,7 +4,7 @@
 <img align="right" width=500 src="/my-gif.gif">
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on my first client's business- [Hindustan Agarbatti Udyog](https://www.github.com/ananya-gta/hindustan-agarbatti-udyog) landing page. 
+- 🔭 I’m currently working on my first client's business landing page - [Hindustan Agarbatti Udyog](https://www.github.com/ananya-gta/hindustan-agarbatti-udyog) 
 
 - 🌱 I’m currently learning **React, Angular & Spring Boot**.
 
