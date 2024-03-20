@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Angular & Spring Boot**.
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://ananya-gupta.netlify.app).
+- 👨‍💻 All of my projects are available at my [portfolio](https://ananyagupta.netlify.app).
 
 - 📝 You can find my blogs on [medium](https://www.medium.com/@ananya.gta).
 
