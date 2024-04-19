@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my first client's business landing page - [Hindustan Agarbatti Udyog](https://www.github.com/ananya-gta/hindustan-agarbatti-udyog) 
 
-- 🌱 I’m currently learning **React, Angular & Spring Boot**.
+- 🌱 I’m currently learning **GoLang & Svelte**.
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://ananyagupta.netlify.app).
 
