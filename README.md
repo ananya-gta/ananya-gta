@@ -4,7 +4,7 @@
 <img align="right" width=500 src="/my-gif.gif">
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on a Full-Stack Project - [Journi](https://www.github.com/ananya-gta/Journi)
+- 🔭 I’m currently working on a Full-Stack Project - [Journi](https://www.github.com/ananya-gta/Journi).
 
 - 🌱 I’m currently learning **GoLang & Svelte**.
 
