@@ -14,6 +14,9 @@
 
 - 📫 Reach me out at: **ananyagupta.works@gmail.com**
 
+<!-- - 🎧 **SPOTIFY PLAYING** 🎧 <br>
+[![Spotify](https://ishan-soni.vercel.app/api/spotify)](https://open.spotify.com/user/315imcpeygjb6qcd7hwjy7iowqeu) -->
+
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -34,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-gta&show_icons=true&locale=en" alt="ananya-gta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-gta&" alt="ananya-gta" /></p>
+
+
