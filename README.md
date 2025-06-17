@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ananya.</h1>
-<h3 align="center">SWE @VWGroup | Frontend Developer | Technical Writer</h3>
+<h3 align="center">SWE @VWGroup | Backend Developer | Technical Writer</h3>
 &nbsp;
 <img align="right" width=500 src="/my-gif.gif">
 <h3>About me:</h3>
