@@ -4,7 +4,7 @@
 <img align="right" width=500 src="/my-gif.gif">
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on a Full-Stack Project - [Nirvana](https://www.github.com/ananya-gta/nirvana-shopping-store).
+- 🔭 I’m currently working on an AI powered Project - [SaheliAI](https://www.github.com/ananya-gta/saheli-ai).
 
 - 🌱 I’m currently learning **AWS CDK** & **Go Lang**.
 
