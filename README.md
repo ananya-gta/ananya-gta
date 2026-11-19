@@ -12,7 +12,7 @@
 
 - 📝 You can find my blogs on [medium](https://www.medium.com/@ananya.gta).
 
-- 📫 Reach me out at: **ananyagupta.works@gmail.com**
+- 📫 Reach me out at: **ananyagupta.dev@gmail.com**
 
 <!-- - 🎧 **SPOTIFY PLAYING** 🎧 <br>
 [![Spotify](https://ishan-soni.vercel.app/api/spotify)](https://open.spotify.com/user/315imcpeygjb6qcd7hwjy7iowqeu) -->
